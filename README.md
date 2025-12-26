@@ -1,4 +1,4 @@
-# CloudQueue# CloudQueue – Serverless Asynchronous Job Processing System
+# CloudQueue – Serverless Asynchronous Job Processing System
 
 CloudQueue is a **serverless, event-driven job processing system** built on AWS.  
 It accepts tasks via an HTTP API, processes them asynchronously using a queue-based architecture, and persists job state throughout the lifecycle.
